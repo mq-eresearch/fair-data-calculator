@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fair-data-calculator/static/css/main.2f042cd4.chunk.css",
+    "main.js": "/fair-data-calculator/static/js/main.d1494c21.chunk.js",
+    "main.js.map": "/fair-data-calculator/static/js/main.d1494c21.chunk.js.map",
+    "runtime-main.js": "/fair-data-calculator/static/js/runtime-main.b56449da.js",
+    "runtime-main.js.map": "/fair-data-calculator/static/js/runtime-main.b56449da.js.map",
+    "static/js/2.3d176159.chunk.js": "/fair-data-calculator/static/js/2.3d176159.chunk.js",
+    "static/js/2.3d176159.chunk.js.map": "/fair-data-calculator/static/js/2.3d176159.chunk.js.map",
+    "static/js/3.c7f31f2a.chunk.js": "/fair-data-calculator/static/js/3.c7f31f2a.chunk.js",
+    "static/js/3.c7f31f2a.chunk.js.map": "/fair-data-calculator/static/js/3.c7f31f2a.chunk.js.map",
+    "index.html": "/fair-data-calculator/index.html",
+    "static/css/main.2f042cd4.chunk.css.map": "/fair-data-calculator/static/css/main.2f042cd4.chunk.css.map",
+    "static/js/2.3d176159.chunk.js.LICENSE.txt": "/fair-data-calculator/static/js/2.3d176159.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b56449da.js",
+    "static/js/2.3d176159.chunk.js",
+    "static/css/main.2f042cd4.chunk.css",
+    "static/js/main.d1494c21.chunk.js"
+  ]
+}
