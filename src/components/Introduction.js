@@ -33,7 +33,7 @@ const Introduction = () => {
             </a>
             in advance of uploading it into the{" "}
             <a
-              href="https://figshare.mq.edu.au"
+              href="https://figshare.mq.edu.au/data"
               target="_blank"
               rel="noreferrer"
               className="link-dark"
